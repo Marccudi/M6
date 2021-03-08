@@ -1,0 +1,12 @@
+all: https://restcountries.eu/rest/v2/all
+SpainName: https://restcountries.eu/rest/v2/name/spain
+SpainFullText: https://restcountries.eu/rest/v2/name/spain?fullText=true
+ESPAlpha: https://restcountries.eu/rest/v2/alpha/ESP
+3Code: https://restcountries.eu/rest/v2/alpha?codes=ESP;USA;JPN;
+Currency: https://restcountries.eu/rest/v2/currency/EUR;
+Lang: https://restcountries.eu/rest/v2/lang/es
+Capital: https://restcountries.eu/rest/v2/capital/Madrid;
+CallingCode: https://restcountries.eu/rest/v2/callingcode/372;
+Region: https://restcountries.eu/rest/v2/region/europe
+RegionalBloc: https://restcountries.eu/rest/v2/regionalbloc/EU;
+Filter: https://restcountries.eu/rest/v2/all?fields=name;capital;currencies
